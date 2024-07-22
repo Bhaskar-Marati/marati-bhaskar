@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on High Performance Computing
 - 📫 How to reach me : cs24d001@iittp.ac.in
 - 😄 Pronouns: he/him
+- Fun fact: I am excited when I am learning new things
 
 <!---
 marati-bhaskar/marati-bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
