@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marati-bhaskar
-- 👀 I’m interested in High Performance Computing
-- 🌱 I’m currently learning git, github, CUDA
-- 💞️ I’m looking to collaborate on High Performance Computing
+- 👋 Hi, I’m @marati-bhaskar.
+- 👀 I’m interested in High Performance Computing.
+- 🌱 I’m currently learning git, github, CUDA.
+- 💞️ I’m looking to collaborate on High Performance Computing.
 - 📫 How to reach me : cs24d001@iittp.ac.in
 - 😄 Pronouns: he/him
 - Fun fact: I am excited when I am learning new things
